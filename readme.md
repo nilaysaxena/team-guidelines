@@ -7,16 +7,25 @@ Hi team! This documentation helps new members of Crowdbotics in:
  - Understanding the expected level of **coding standards** and **best-practice implementation**
  - and much more.
 
-Please follow the links below as per your role:
+## Understanding CB Projects
 
 ## General Guidelines
 
+Please follow the links below as per your role:
+
 ## Backend
+Guidelines
 
 ## Frontend Mobile
+Guidelines
 
 ## Frontend Web
 [Guidelines](frontend-web/guidelines.md)
+- [Prerequisites](frontend-web/guidelines.md#prerequisites)
+- [Basic Idea](frontend-web/guidelines.md#basic-idea-of-a-crowdbotics-project)
+- [Getting Started](frontend-web/guidelines.md#getting-started)
+- [Best Practices](frontend-web/guidelines.md#best-practices)
+- [Recommended Libraries](frontend-web/guidelines.md#recommended-libraries--packages)
 
 ## QA Members
 
