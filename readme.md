@@ -9,11 +9,14 @@ Hi team! This documentation helps new members of Crowdbotics in:
 
 Please follow the links below as per your role:
 
-## Backend Developers
+## General Guidelines
 
-## Frontend Mobile Developers
+## Backend
 
-## Frontend Web Developers
+## Frontend Mobile
+
+## Frontend Web
+[Guidelines](frontend-web/guidelines.md)
 
 ## QA Members
 
