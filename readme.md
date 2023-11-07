@@ -20,6 +20,14 @@ Please follow the links below as per your role:
 
 ## QA Members
 
-All the team members are very welcome to collaborate towards suggesting improvements and additions to these guidelines.
+## Your Contribution Is Required
+We look forward to constantly improve this documentation to make it as informative and useful as possible, and easier for fellow team members to understand and follow. Thus, we request your contribution.
+
+Every team member is very welcome to collaborate by:
+- providing feedback,
+- suggesting edits / improvements, and
+- suggesting additions
+
+to this guidelines documentation.
 
 Thank you for reading! 
