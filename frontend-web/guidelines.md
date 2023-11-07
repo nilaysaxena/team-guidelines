@@ -58,7 +58,7 @@ src
 │
 ├── configs
 │   ├── app-config.js
-│   │   (export some variable like APP_CONFIG having all configurations)
+│       (export some variable like APP_CONFIG having all configurations)
 │   └── ...
 │
 ├── constants
@@ -110,7 +110,7 @@ src
 - Accessibility Standards
 
 ## Recommended Libraries / Packages
-Redux Toolkit (aka RTK Query) except for file uploads
-Tanstack Query
-Tanstack Table
-React Bootstrap
+- Redux Toolkit (aka RTK Query) except for file uploads
+- Tanstack Query
+- Tanstack Table
+- React Bootstrap
