@@ -41,9 +41,9 @@ src
 │   │   └── mixins.scss
 │   │
 │   ├── svgs
-│   │   ├── colors.scss
-│   │   ├── global.scss
-│   │   └── mixins.scss
+│   │   ├── logo.svg
+│   │   ├── icon-home.js
+│   │   └── ...
 │   │
 │   └── index.js
 │       (export above assets under some variable like ALL_ASSETS)
@@ -101,13 +101,13 @@ src
 ```
 
 ## Best Practices
-Application Security - handling of data
-GitFlow
-Use dot env
-Component Naming (ScreenHome, AppSelectbox, ModalProductDetails, etc.)
-Indentation (2 spaces perferred - standard across all files)
-Have a global CSS and then component level CSS
-Accessibility Standards
+- Application Security - handling of data
+- GitFlow
+- Use dot env
+- Component Naming (ScreenHome, AppSelectbox, ModalProductDetails, etc.)
+- Indentation (2 spaces perferred - standard across all files)
+- Have a global CSS and then component level CSS
+- Accessibility Standards
 
 ## Recommended Libraries / Packages
 Redux Toolkit (aka RTK Query) except for file uploads
