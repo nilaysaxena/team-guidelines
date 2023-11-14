@@ -13,6 +13,11 @@ Hi team! This documentation helps new members of Crowdbotics in:
 
 Please follow the links below as per your role:
 
+- General Coding Standards and best practices...
+- ...
+- Using Git Flow
+- Setting up Custom Domain with Crowdbotics Projects
+
 ## Backend
 Guidelines
 
