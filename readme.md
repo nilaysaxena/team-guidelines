@@ -16,7 +16,7 @@ Please follow the links below as per your role:
 - General Coding Standards and best practices...
 - ...
 - Using Git Flow
-- Setting up Custom Domain with Crowdbotics Projects
+- [Setting up Custom Domain with Crowdbotics Projects](general/setting-up-custom-domain.md)
 
 ## Backend
 Guidelines
