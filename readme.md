@@ -31,6 +31,8 @@ Guidelines
 - [Getting Started](frontend-web/guidelines.md#getting-started)
 - [Best Practices](frontend-web/guidelines.md#best-practices)
 - [Recommended Libraries](frontend-web/guidelines.md#recommended-libraries--packages)
+- Recommendations for writing JSX (HTML5 semantics, web accessibility, etc.)
+- Recommendations for writing CSS (scss, optimal level of nesting, bem, global variables, modulatity, etc.)
 
 ## QA Members
 
