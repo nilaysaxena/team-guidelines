@@ -1,3 +1,5 @@
+[[ Back to All Guidelines ]](../readme.md)
+
 # Setting up a Custom Domain with Crowdbotics Projects
 
 Once the project is ready to go live and we have received a confirmation from the client:
