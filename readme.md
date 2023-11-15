@@ -18,13 +18,13 @@ Please follow the links below as per your role:
 - Using Git Flow
 - [Setting up Custom Domain with Crowdbotics Projects](general/setting-up-custom-domain.md)
 
-## Backend
+## Backend (Django Web Framework / Python)
 Guidelines
 
-## Frontend Mobile
+## Frontend Mobile (React Native)
 Guidelines
 
-## Frontend Web
+## Frontend Web (React.js)
 [Guidelines](frontend-web/guidelines.md)
 - [Prerequisites](frontend-web/guidelines.md#prerequisites)
 - [Basic Idea](frontend-web/guidelines.md#basic-idea-of-a-crowdbotics-project)
