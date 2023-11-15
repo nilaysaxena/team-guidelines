@@ -3,8 +3,8 @@
 # FE Web Guidelines
 
 ## Prerequisites
-Choice of IDE
-Choice of Prettier
+- Choice of IDE
+- Choice of Prettier
 
 ## Basic Idea of a Crowdbotics Project
 Directory structure (common for all BE/FE/Mobile)
@@ -14,8 +14,8 @@ Directory structure (common for all BE/FE/Mobile)
 We have standardized the folder name `frontend` to be used for React Web application codebase.
 
 ### Choice of Language
-Javascript
-Typescript (Recommended)
+- Javascript
+- Typescript (Recommended)
 
 ### Setting up your local development environment
 Once you have:
@@ -28,8 +28,12 @@ If your project already has the `frontend` folder, you can skip the next section
 
 ### Choice of Build Tool
 For the fresh project that you're starting from scratch, it is recommended to use either of the tools below:
-- The _old-school_ **Create React App (CRA)** (More features and larger ecosystem) - recommended *for larger and more complex applications*
-- The _modern_ **React + Vite** (Simple and fast setup, quicker development) - recommended *for smaller and simpler applications*
+- The _old-school_ **Create React App (CRA)**
+  - More features and larger ecosystem
+  - Recommended *for larger and more complex applications*
+- The _modern_ **React + Vite**
+  - Simple and fast setup, quicker development
+  - Recommended *for smaller and simpler applications*
 
 Once you have made the choice of the build tool that you're going to use, inside the root directory of your project, initialise the react web app project in the `frontend` folder with the command respective to your build tool.
 
@@ -70,7 +74,8 @@ frontend
     │   ├── fonts
     │   ├── icons
     │   ├── images
-    │       (for raster formats like png, jpg, etc.)
+    │   │   (for raster formats like png, jpg, etc.)
+    │   │
     │   ├── styles
     │   │   ├── colors.scss
     │   │   ├── global.scss
@@ -86,15 +91,17 @@ frontend
     │
     ├── components
     │   ├── atoms
-    │       (tiny reusable components, like form fields, icons, etc.)
+    │   │   (tiny reusable components, like form fields, icons, etc.)
+    │   │
     │   ├── molecules
-    │       (combination of atoms)
+    │   │   (combination of atoms)
+    │   │
     │   └── organisms
     │       (larger components, like layout wrappers, page containers, modals, etc.)
     │
     ├── configs
     │   ├── app-config.js
-    │       (export some variable like APP_CONFIG having all configurations)
+    │   │   (export some variable like APP_CONFIG having all configurations)
     │   └── ...
     │
     ├── constants
@@ -133,6 +140,7 @@ frontend
     │
     ├── routes.js
     │   (authenticated/unauthenticated route definitions)
+    │   
     └── README.md
 ```
 
@@ -146,7 +154,7 @@ The Crowdbotics projects support the following locations as either places where 
 - GitFlow
 - Use dot env
 - Component Naming (ScreenHome, AppSelectbox, ModalProductDetails, etc.)
-- Indentation (2 spaces perferred - standard across all files)
+- Indentation (2 spaces preferred - standard across all files)
 - Have a global CSS and then component level CSS
 - Accessibility Standards
 
@@ -155,3 +163,4 @@ The Crowdbotics projects support the following locations as either places where 
 - Tanstack Query
 - Tanstack Table
 - React Bootstrap
+- Formik
