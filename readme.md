@@ -29,10 +29,15 @@ Guidelines
 - [Prerequisites](frontend-web/guidelines.md#prerequisites)
 - [Basic Idea](frontend-web/guidelines.md#basic-idea-of-a-crowdbotics-project)
 - [Getting Started](frontend-web/guidelines.md#getting-started)
+	- [Choice of Language](frontend-web/guidelines.md#choice-of-language)
+	- [Setting up Local Development Environment](frontend-web/guidelines.md#setting-up-your-local-development-environment)
+	- [Choice of Build Tool](frontend-web/guidelines.md#choice-of-build-tool)
+	- [Recommended Directory Structure](frontend-web/guidelines.md#recommended-directory-structure)
+	- [Web Build Folder](frontend-web/guidelines.md#web-build-folder)
 - [Best Practices](frontend-web/guidelines.md#best-practices)
-- [Recommended Libraries](frontend-web/guidelines.md#recommended-libraries--packages)
 - Recommendations for writing JSX (HTML5 semantics, web accessibility, etc.)
 - Recommendations for writing CSS (scss, optimal level of nesting, bem, global variables, modulatity, etc.)
+- [Recommended Libraries](frontend-web/guidelines.md#recommended-libraries--packages)
 
 ## QA Members
 
