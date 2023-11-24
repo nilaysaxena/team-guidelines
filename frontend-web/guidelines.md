@@ -151,7 +151,7 @@ The Crowdbotics projects support the following locations as either places where 
 
 ## Best Practices
 - Application Security - handling of data
-- GitFlow
+- GitFlow  (including branch naming, mention JIRA ticket with a short message) - link to General Guidelines
 - Use dot env
 - Component Naming (ScreenHome, AppSelectbox, ModalProductDetails, etc.)
 - Indentation (2 spaces preferred - standard across all files)
