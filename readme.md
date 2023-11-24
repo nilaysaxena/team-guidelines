@@ -15,7 +15,7 @@ Please follow the links below as per your role:
 
 - General Coding Standards and best practices...
 - ...
-- Using Git Flow
+- Using Git Flow (including branch naming, mention JIRA ticket with a short message)
 - [Setting up Custom Domain with Crowdbotics Projects](general/setting-up-custom-domain.md)
 
 ## Backend (Django Web Framework / Python)
