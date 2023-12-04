@@ -11,20 +11,24 @@ Hi team! This documentation helps new members of Crowdbotics in:
 
 ## General Guidelines
 
-Please follow the links below as per your role:
-
+Below are the general guidelines that apply to all dev team members:
+[heading links to general guidelines]
 - General Coding Standards and best practices...
 - ...
 - Using Git Flow (including branch naming, mention JIRA ticket with a short message)
 - [Setting up Custom Domain with Crowdbotics Projects](general/setting-up-custom-domain.md)
 
-## Backend (Django Web Framework / Python)
+## Guidelines by Role
+
+Please follow the links below as per your role:
+
+### Backend (Django Web Framework / Python)
 Guidelines
 
-## Frontend Mobile (React Native)
+### Frontend Mobile (React Native)
 Guidelines
 
-## Frontend Web (React.js)
+### Frontend Web (React.js)
 [Guidelines](frontend-web/guidelines.md)
 - [Prerequisites](frontend-web/guidelines.md#prerequisites)
 - [Basic Idea](frontend-web/guidelines.md#basic-idea-of-a-crowdbotics-project)
@@ -39,7 +43,7 @@ Guidelines
 - Recommendations for writing CSS (scss, optimal level of nesting, bem, global variables, modulatity, etc.)
 - [Recommended Libraries](frontend-web/guidelines.md#recommended-libraries--packages)
 
-## QA Members
+### QA Members
 
 ## Your Contribution Is Required
 We look forward to constantly improve this documentation to make it as informative and useful as possible, and easier for fellow team members to understand and follow. Thus, we request your contribution.
